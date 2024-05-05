@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+p {
+  /* color: #666; */
+  line-height: 1.5;
+}
+.header {
+  text-align: center;
+  margin-bottom: 20px; /* Add some space between header and sections */
+}
+.project-info {
+  max-width: 800px;
+  margin: 0 auto; /* Center the project info within the header */
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  line-height: 1px;
+}
+.project-info p{
+  line-height: 10px;
+}
+.project-info h1{
+  line-height: 20px;
+}
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
